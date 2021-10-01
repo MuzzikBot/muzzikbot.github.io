@@ -4,8 +4,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
     color: #6c7279;
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(182,53,156,1) 100%, rgba(239,10,106,1) 100%);
-}
+    background: #121212;
 
 *,
 *:before,
