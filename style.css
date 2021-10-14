@@ -86,12 +86,11 @@ body {
 
 footer {
 	position: absolute;
-	background-color: rgba(100, 100, 100, 0.336);
+	background-color: rgba(158, 158, 158, 0.336);
 	width: 100%;
 	color: snow;
 	bottom: 0;
-	height: 7vh;
-	border-radius: 15px;
+	height: 70px;
 }
 
 .info {
