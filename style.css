@@ -87,10 +87,11 @@ body {
 footer {
 	position: absolute;
 	background-color: rgba(158, 158, 158, 0.336);
-	width: 100%;
 	color: snow;
-	bottom: 0;
-	height: 70px;
+	left: 0;
+    bottom: auto;
+    width: 100%;
+    height: 80px;
 }
 
 .info {
@@ -165,4 +166,28 @@ footer {
 
 .social {
 	text-align: center;
+}
+
+/* Commands */
+
+.command {
+    position: relative;
+    margin-top: 5vh;
+    margin-bottom: 1vh;
+    text-align: center;
+    background-color: #d8d8d85e;
+    width: 80%;
+    margin-left:10%;
+    height: 30%;
+    border-radius: 1vh;
+    color: #121212;
+    font-family: 'Montserrat', serif;
+}
+
+.title {
+    margin-top: 5vh;
+}
+
+.titlemain {
+    margin-top: 2vh;
 }
