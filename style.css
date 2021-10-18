@@ -94,6 +94,17 @@ footer {
     height: 80px;
 }
 
+
+.footerfix {
+	position: absolute;
+	background-color: rgba(158, 158, 158, 0.336);
+	color: snow;
+	left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 80px;
+}
+
 .info {
 	margin-top: 15px;
 	margin-left: 15px;
